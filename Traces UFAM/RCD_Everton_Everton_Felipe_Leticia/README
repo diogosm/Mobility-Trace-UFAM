@@ -1,0 +1,23 @@
+Arquivo README para o script "metricas.py"
+
+EQUIPE:
+===================
+Everton Gualberto
+Éverton Arruda
+Felipe Cabral
+Letícia Santos
+
+SOBRE
+===================
+O script "metricas.py" realiza uma série de cálculos para
+mostras obtidas de arquivos .csv.
+
+Por padrão, as métricas são obtidas dos atributos precisão(accuracy)
+e velocidade(speed).
+
+COMO EXECUTAR
+====================
+Para executar o script, basta utilizar o comando:
+    $ ./metricas.py ARQUIVO1.csv ARQUIVO2.csv ...
+
+OBS: Certifique-se de que ele esteja com permissão para execução.

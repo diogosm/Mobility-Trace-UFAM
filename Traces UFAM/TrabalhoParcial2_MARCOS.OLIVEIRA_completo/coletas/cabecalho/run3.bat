@@ -1,0 +1,1 @@
+FOR /L %%a IN (0,1,5) DO copy /b "saida.one"+"Coleta (%%a).gpx.one" "saida.one" 

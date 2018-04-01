@@ -1,0 +1,20 @@
+Arquivos: csv/01.csv csv/02.csv csv/03.csv csv/04.csv 
+
+Cálculos para Precisão(Accuracy):
+	Média Aritmética:  17.0212917208
+	Desvio Padrão:  19.5180600054
+	Variância:  381.574104856
+	Coeficiente de Variação:  114.668500638
+	Valor Mínimo:  3.6056
+	Valor Máximo:  192.0
+	Tamanho da Mostra:  616 
+
+Cálculos para Velocidade(Speed):
+	Média Aritmética:  0.555330032468
+	Desvio Padrão:  0.405145360787
+	Variância:  0.16440966217
+	Coeficiente de Variação:  72.9557807251
+	Valor Mínimo:  0.0
+	Valor Máximo:  2.7778
+	Tamanho da Mostra:  616 
+

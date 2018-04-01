@@ -1,0 +1,3 @@
+As políticas especificadas para o grupo foram:
+a) Drop tail – A primeira mensagem na fila do buffer é escolhida para ser retirada -> arquivo one_droptail;
+b) Evict Most forwarded first (mofo) – A mensagem que foi enviada um número máximo de vezes é descartada -> arquivo one_mofo.
